@@ -1,0 +1,6 @@
+{
+  "name": "F1 Gateway Reference",
+  "description": "A secure gateway to intermediate the user's Medium profile, asking an F1 riddle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
